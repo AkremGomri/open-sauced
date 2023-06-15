@@ -42,6 +42,9 @@ function Footer() {
           </a>
         </li>
       </ul>
+    <div>
+      this is a new element for testing the workflow
+    </div>
     </Container>
   );
 }
